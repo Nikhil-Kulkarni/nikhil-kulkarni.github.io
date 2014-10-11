@@ -30,6 +30,10 @@ body {
 	font-style: Verdana;
 }
 
+.black-color {
+	color:black;
+}
+
 .border {
 	outline: 1px solid black
 }
