@@ -24,3 +24,8 @@ body {
 .col-md-4-transparent {
 	background: rgba(46,51,56,0.2)!important;
 }
+
+.white-color {
+	color: white;
+	font-style: Verdana;
+}
