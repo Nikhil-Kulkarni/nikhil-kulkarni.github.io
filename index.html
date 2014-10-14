@@ -20,7 +20,7 @@
   <body>
 
     <div class="container container-main">
-        <div class="page-header">
+        <div class="page-header" id="header">
           <h1>Nikhil Kulkarni</h1>
         </div>
 
@@ -49,6 +49,12 @@
 
     </div>
 
+    <script>
+      function changeHeader() {
+        var x = getElementById("header");
+        x.style.fontStyle = "italic";
+      }
+    </script>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
