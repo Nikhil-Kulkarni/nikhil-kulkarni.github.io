@@ -5,6 +5,10 @@ body {
 	background-size: 100% 100%
 }
 
+.navbar-inner {
+	background-color: transparent;
+}
+
 .panel-transparent {
 	background: none;
 }
