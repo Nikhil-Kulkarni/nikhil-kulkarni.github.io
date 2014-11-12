@@ -7,6 +7,11 @@ body {
 
 .navbar-inner {
 	background-color: transparent;
+	background: transparent;
+}
+
+.navbar li {
+	color: #000;
 }
 
 .panel-transparent {
